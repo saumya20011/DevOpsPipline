@@ -1,3 +1,4 @@
+#creates a simple API using Python Flask that converts temperatures into different scales (Fahrenheit, Celsius, and Kelvin). 
 from flask import Flask, request
 from flask_restful import Resource, Api
 
